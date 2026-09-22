@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./xia-mark.png" alt="XIA mark" width="180" />
+<img src="./xia-mark.png" alt="Ataraxia mark" width="180" />
 
-# XIA
+# Ataraxia
 
 **Ataraxia, made operational.**
 
-XIA is shorthand for Ataraxia: a curated home for [Beomsu Koh](https://github.com/GoBeromsu)'s personal software, Obsidian plugins, and knowledge tools.
+A curated home for [Beomsu Koh](https://github.com/GoBeromsu)'s personal software, Obsidian plugins, and knowledge tools.
 
 Not every experiment belongs here. This is a deliberately selected collection of work I build, use, and choose to share.
 
