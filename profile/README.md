@@ -9,7 +9,7 @@
 XIA builds knowledge infrastructure and AI agents that keep your attention yours.<br>
 Every tool amplifies someone's intent. We build for the person whose attention is at stake.
 
-[Website](https://xia.beomsukoh.com/) · [한국어](https://xia.beomsukoh.com/ko/) · [Founder](https://beomsukoh.com/)
+[Website](https://xia-website.vercel.app/) · [한국어](https://xia-website.vercel.app/ko/) · [Founder](https://beomsukoh.com/)
 
 </div>
 
